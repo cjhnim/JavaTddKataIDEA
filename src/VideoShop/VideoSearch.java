@@ -3,7 +3,7 @@ package VideoShop;
 /**
  * Created by francis on 2017-02-17.
  */
-public class RentalReport {
+public class VideoSearch {
     public int rentalTotalCount() {
         return 0;
     }
